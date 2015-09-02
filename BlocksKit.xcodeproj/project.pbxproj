@@ -7,7 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		2BB8A49518BE7740006AF0F6 /* UIImagePickerControllerBlocksKitTest.m in Sources */ = {isa = PBXBuildFile; fileRef = 2BB8A49418BE7740006AF0F6 /* UIImagePickerControllerBlocksKitTest.m */; };
 		43CE09E1198660EE00F91137 /* QLPreviewController+BlocksKit.m in Sources */ = {isa = PBXBuildFile; fileRef = 43CE09E0198660EE00F91137 /* QLPreviewController+BlocksKit.m */; };
 		43CE09E419866C2300F91137 /* QLPreviewControllerBlocksKitTest.m in Sources */ = {isa = PBXBuildFile; fileRef = 43CE09E319866C2300F91137 /* QLPreviewControllerBlocksKitTest.m */; };
 		43CE09E519866CC200F91137 /* BlocksKit+QuickLook.h in CopyFiles */ = {isa = PBXBuildFile; fileRef = 43CE09E21986618700F91137 /* BlocksKit+QuickLook.h */; };
@@ -293,7 +292,6 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
-		2BB8A49418BE7740006AF0F6 /* UIImagePickerControllerBlocksKitTest.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = UIImagePickerControllerBlocksKitTest.m; sourceTree = "<group>"; };
 		43CE09DF198660EE00F91137 /* QLPreviewController+BlocksKit.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "QLPreviewController+BlocksKit.h"; sourceTree = "<group>"; };
 		43CE09E0198660EE00F91137 /* QLPreviewController+BlocksKit.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "QLPreviewController+BlocksKit.m"; sourceTree = "<group>"; };
 		43CE09E21986618700F91137 /* BlocksKit+QuickLook.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "BlocksKit+QuickLook.h"; sourceTree = "<group>"; };
@@ -791,7 +789,6 @@
 				DBFB0AF9184DCD6200F37EEE /* UIControlBlocksKitTest.m */,
 				DBFB0AFB184DCD6200F37EEE /* UITextFieldBlocksKitTest.m */,
 				DBFB0AFD184DCD6200F37EEE /* UIWebViewBlocksKitTest.m */,
-				2BB8A49418BE7740006AF0F6 /* UIImagePickerControllerBlocksKitTest.m */,
 				43CE09E319866C2300F91137 /* QLPreviewControllerBlocksKitTest.m */,
 			);
 			name = UIKit;
@@ -1093,7 +1090,6 @@
 				DBFB0B0C184DCD6200F37EEE /* NSMutableIndexSetBlocksKitTest.m in Sources */,
 				DBFB0B10184DCD6200F37EEE /* NSObjectBlockObservationTest.m in Sources */,
 				DBFB0B02184DCD6200F37EEE /* BKMacrosTest.m in Sources */,
-				2BB8A49518BE7740006AF0F6 /* UIImagePickerControllerBlocksKitTest.m in Sources */,
 				DBFB0AFF184DCD6200F37EEE /* A2BlockInvocationTests.m in Sources */,
 				DBFB0B19184DCD6200F37EEE /* UITextFieldBlocksKitTest.m in Sources */,
 				DBFB0B0A184DCD6200F37EEE /* NSMutableArrayBlocksKitTest.m in Sources */,
